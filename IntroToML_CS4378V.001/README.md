@@ -13,4 +13,5 @@ The network uses a sigmoid activation function with stochiastic back propogation
 <p><b> Assignentment2: </b> </p>
 <p><b> Assignentment3: </b> </p>
 <p><b> Assignentment4: </b> </p>
+<p> <b> Language: </b> C++ </p>
 <b>___________________________________________________________________________________________________________________________________</b>
