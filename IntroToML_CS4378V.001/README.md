@@ -6,6 +6,11 @@
 The network uses a sigmoid activation function with stochiastic back propogation. Randomly initialzes weights with a normal distribution. Inputs are in the range of 0-256 (grayscale) and downscaled for use in the network to .01 to .99.
 <p> <b> Note: </b> The full process is in the write-up in the MLProject_ANN directory </p>
 <p> <b> Language: </b> Python with the use of Numpy </p>
+
 <b>___________________________________________________________________________________________________________________________________</b>
 ### Assignments 1-4
+<p><b> Assignentment1: </b> Use stochastic linear regression to predict gas mileage based on features of cars in a dataset. </p>
+<p><b> Assignentment2: </b> </p>
+<p><b> Assignentment3: </b> </p>
+<p><b> Assignentment4: </b> </p>
 <b>___________________________________________________________________________________________________________________________________</b>
