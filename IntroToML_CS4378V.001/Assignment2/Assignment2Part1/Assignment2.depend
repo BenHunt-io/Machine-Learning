@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1508448156 source:d:\assignment2\main.cpp
+	<iostream>
+	<DataReader.h>
+	<cmath>
+	<math.h>
+	<iomanip>
+	<Plant.h>
+
+1508104230 d:\assignment2\include\datareader.h
+	<Plant.h>
+
+1508104440 d:\assignment2\include\plant.h
+	<string>
+
+1508109664 source:d:\assignment2\src\datareader.cpp
+	<iostream>
+	<fstream>
+	<DataReader.h>
+

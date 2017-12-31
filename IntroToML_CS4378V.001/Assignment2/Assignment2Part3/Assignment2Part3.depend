@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508444416 source:c:\users\the dough boys\desktop\assignment2\assignment2part3\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<vector>
+	"CarData.h"
+
+1508395777 c:\users\the dough boys\desktop\assignment2\assignment2part3\cardata.h
+
